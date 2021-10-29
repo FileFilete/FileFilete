@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FileFilete
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Java Script/PHP/HTML
+- 📫 How to reach me xfiletorf@gmail.com
